@@ -1,5 +1,4 @@
 ## Problems
-In each of the notebook file, we indicate `TODO` or `Your Code` for you to fill in with your implementation.
 Majority of implementations will also be required under `lib` with specified tags.
 
 ### Problem 1: Basics of Neural Networks 
