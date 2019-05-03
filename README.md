@@ -13,4 +13,4 @@
 * Model outputs a probability over five expressions in addition to the subjects identity.
 
 ## Neural Networks and Deep Learning - Coursera
-* Implementation from Deeplearning.ai course taken on Coursera
+* Implementations from Deeplearning.ai course taken on Coursera
