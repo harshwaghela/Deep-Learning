@@ -2,7 +2,7 @@
 
 ### This repository contains Python notebooks for my implemented Deep Learning projects and assignments.
 
-#Contents:
+# Contents:
 ## CNN-CIFAR10
     * Designed a 7-layer Convolutional Neural Network using Python - TensorFlow framework achieving a test accuracy of ~ 75%.
     * Leveraged Z-score normalization, Data Augmentation, Batch Normalization and Dropout techniques to achieve higher accuracy.
